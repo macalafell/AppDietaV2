@@ -1,0 +1,954 @@
+Alimento;Kcal (por 100 g);Grasas (g/100 g);Proteínas (g/100 g);Carbohidratos (g/100 g)
+Arroz;364;0,9;6,7;81,6
+Arroz blanco de cocción rápida;349;0,6;6,9;78,2
+Arroz integral;350;2,2;7,3;74,1
+Arroz salvaje;356;1,1;14,7;68,7
+Avena;353;7,1;11,7;55,7
+Bulgur;344;1,3;12,3;64,5
+Cebada;330;1,2;9,9;62,1
+Centeno;372;2,5;14,8;65,2
+Fécula de maíz;356;0,08;0,41;88
+Germen de trigo;355;9,2;28,6;30,6
+Gofio canario, tostado;356;2,7;10,1;64,8
+Harina de arroz;349;0,7;7,6;78
+Harina de centeno;326;1,9;10;59,7
+Harina de maíz;342;2,8;8,3;66,3
+Harina de trigo;341;1,2;9,9;70,6
+Harina integral de trigo;322;2,2;12,7;58,3
+Maíz en grano hervido en lata;102;1,3;3,3;18,2
+Maíz en mazorca crudo;346;3,8;8,6;64,7
+Maíz en mazorca hervido;110;1,5;3,4;18,6
+Mijo;356;4,2;11;64,4
+Polenta cocinada;61,8;0,31;1,4;13,2
+Polenta, harina;350;1,8;7,9;74
+Quinoa;354;6,1;14,1;57,2
+Salvado de avena;319;7,4;12,3;33,8
+Salvado de trigo;274;4,3;15,6;21,7
+Sémola de trigo;351;1,1;12,7;69
+Barrita de cereales con frutas rojas;392;5;8;78
+Barrita de cereales con melocotón y albaricoque;403;7;7;77
+Barrita de cereales con pepitas de chocolate;350;7;9;62
+Barrita de cereales integrales;393;6;8;76
+Barrita de fibra y chocolate;414;16;7;51
+Bizcocho de fruta y fibra;383;13;4;58
+Cd con base de arroz;388;1,5;7;86
+Cd con base de arroz y chocolate;388;2,5;5;85
+Cd con base de arroz y trigo integral;375;1;16;74
+Cd con base de arroz, trigo integral, frutas rojas;390;1;14;79,5
+Cd con base de avena;349;7,2;13,8;54,4
+Cd con base de avena integral tostada y miel;388;4,9;8,6;75
+Cd con base de maíz;376;0,8;8;83
+Cd con base de maíz azucarados;361;0,6;4,5;83,7
+Cd con base de trigo y chocolate;364;2,5;8;75
+Cd con base de trigo y frutas;348;2;10;65
+Cd con base de trigo y miel;387;1,7;7;84
+Cd de trigo integral relleno de pasas;358;2;9;71,5
+Cd rellenos de chocolate;436;14;7,5;66,6
+Cd salvado de trigo completo;338;4;13;48
+Cd variados con miel;379;3;5,5;80,7
+Cd variados integrales con miel;382;3,1;8;77
+Cere ales (almohadillas ricas en fibra);408;14;7,5;63
+Cere ales (copos ricos en fibra);356;2;10;67
+Cere ales en polvo solubles tipo “Eko”;343;0,42;5,7;73,7
+Cereales malteados en polvo;343;0,4;5,7;73,7
+Malta;365;2,1;11,2;73,1
+Muesli;395;11;9;61
+Snacks bajos en calorías de chocolate;332;10;9;50
+Tortita de arroz inflado;371;3,5;8,5;75
+Tortita de arroz integral;394;3,2;8,6;80,3
+Tortita de arroz integral tipo1;369;2,5;7,5;76,5
+Tortita de maíz;384;2,4;8,1;81,5
+Colines;414;6,2;11,2;77,7
+Masa de hojaldre congelada;544;38,5;7,4;41,3
+Masa quebrada;372;20,9;6,1;39,3
+Pan blanco;243;1,6;8,3;47
+Pan blanco sin sal;265;1,1;8;53,9
+Pan blanco tipo baguette;273;1,2;8;55,9
+Pan blanco tostado;389;4,6;11,5;73,4
+Pan blanco tostado sin sal;389;3,9;11,5;73,4
+Pan de avena;275;4,4;8,4;48,5
+Pan de cebada;248;4,5;6,4;43,5
+Pan de centeno;245;3,3;8,5;42,5
+Pan de molde;350;13,6;9,3;46,9
+Pan de molde integral;239;3;10;40
+Pan de pasas;269;3;8,3;49,6
+Pan de perrito;271;4,7;7,5;47,5
+Pan de pita;274;1,2;9,1;55,7
+Pan de trigo y centeno;243;1;6,7;49
+Pan de Viena;268;2,4;10,8;49,7
+Pan fajitas;315;6,4;8,6;53
+Pan integral;259;3;10,9;44
+Pan integral tostado;385;7;13;62
+Pan sin gluten;242;5,2;4,3;42,3
+Pan tipo hamburguesa;271;4,7;7,5;47,5
+Pan tipo picatoste con omega;1;6,2;0;10,2
+Panecillos hechos con aceite de oliva;305;4,5;8;56,6
+Picatostes;371;2;11;75,6
+Cuscús;377;0,64;12,8;77,4
+Pasta;359;1,6;12,8;70,9
+Pasta al huevo;374;4,2;12,4;69,9
+Pasta de colores;352;1;13,1;70,6
+Pasta fresca cocida;130;1,1;5,2;24,9
+Pasta integral;352;2,9;13,1;63,7
+Pasta rellena de carne hervida;104;3,4;4,7;12,7
+Pasta rellena de queso hervida;151;5,1;9,5;16,3
+Altramuz seco;394;9,7;36,2;40,4
+Garbanzo;341;5,5;20,8;44,3
+Guisante seco;302;1,4;22,9;41,2
+Haba seca;307;2,1;26,1;33,3
+Harina de algarrobo;300;0,65;4,6;49,1
+Judía blanca;284;1,6;21,1;34,7
+Judía pinta;292;0,83;23,6;35,1
+Lenteja;305;1,7;23,2;40,6
+Soja;373;18,3;34,7;6,3
+Cocido madrileño en conserva;139;7,8;6,9;9,6
+Garb anzo en conserva;120;2,9;7,2;14,1
+Judía blanca en conserva;101;0,3;6,7;15,7
+Judía pinta en conserva;84,2;0,2;8,4;9,9
+Lenteja en conserva;109;0,7;8,8;14,9
+Batido fermentado de soja;82,4;5,2;5;3,9
+Bebida de soja;54,8;1,8;3,2;5,8
+Brote de soja;54,6;1;5,5;4,7
+Fideos de soja;340;0,07;0,09;83,2
+Hamburguesa vegetal;192;6,3;15,7;15,7
+Harina de soja;475;23,5;36,8;23,5
+Lecitina de soja;501;53;0;5,9
+Lentejas, brotes;129;0,55;9;22,1
+Miso;218;6;11,7;26,5
+Salchicha vegetal;283;18,2;18,5;9,8
+Tempeh;104;1,5;18;3,5
+Tofu;89,4;4,8;8,1;3,3
+Acedera;32,9;0,7;2;3,2
+Acelga;29,8;0,2;1,9;4,5
+Ajo;119;0,23;4,3;24,3
+Alcachofa;43,9;0,12;2,4;2,9
+Apio;19,4;0,2;1,2;2,5
+Bere njena;21,4;0,18;1,3;2,4
+Berro;20,1;0,3;1,6;2
+Borraja;25,9;0,7;1,8;3,1
+Brécol;33;0,2;3,6;2,7
+Brotes de bambú fresco;38,3;0,3;2,6;5,2
+Calabacín;23,3;0,5;1,9;2
+Calabaza;28,4;0,13;1,1;4,6
+Canónigos;16,6;0,4;1,8;0,7
+Cardo;16,9;0,1;0,8;2,2
+Cebolla;31,9;0,25;1,2;5,3
+Chile rojo;37;0,4;1;6,4
+Chile verde;20,1;0,3;0,8;2,6
+Chirivía;70,1;1,1;1,8;11,1
+Col;30,2;0,2;1,4;4,2
+Col de Bruselas;42,7;0,34;4,4;3,3
+Col rizada;43,7;0,9;4,3;2,5
+Coliflor;27,5;0,28;2,4;2,4
+Endivia;23,6;0,24;1,1;3,6
+Escarola;17,4;0,2;1,6;1
+Esparrago verde;21,2;0,16;2,3;2
+Espinaca;20,7;0,3;2,6;0,61
+Grelo;20,8;0,2;2,7;0,1
+Guisante verde;90,7;0,9;6,9;11,3
+Haba fresca;50,4;0,2;5,4;4,2
+Judía verde;36,4;0,58;2,4;4,2
+Lechuga;19,6;0,6;1,4;1,4
+Lombarda;26,6;0,18;1,5;3,5
+Nopal;23,6;0,09;1,3;3,3
+Pepino;13,3;0,2;0,63;1,9
+Pimiento rojo;33,1;0,9;1,3;4,2
+Pimiento verde;19,7;0,8;0,63;1,6
+Puerro;29,2;0,29;2,2;3,3
+Repollo;32,1;0,45;1,7;4,1
+Rúcula;34,3;0,66;2,6;3,7
+Tomate;22,2;0,21;0,88;3,5
+Tomate, Cherry;33;0,8;0,8;5
+Alcachofa congelada;37,7;0,43;2,6;3,9
+Espinaca congelada;32,4;1;3,1;1,2
+Guisante congelado;74;0,4;6;9,5
+Judía verde congelada;36,5;0,9;1,9;3,6
+Menestra congelada;63,9;0,52;3,3;9,5
+Acelga en conserva;15,3;0,08;1,8;1,2
+Alcachofa en conserva;36,6;0,16;2,9;1,2
+Apio en conserva;32,3;0,3;0,5;5,9
+Brotes de bambú en conserva;26;0,4;1,7;3,2
+Cardo en conserva;15,8;0,11;0,76;2,1
+Chucrut en conserva;22,5;0,3;1,5;2,4
+Esparrago de lata;18,8;0,31;1,9;1,5
+Espinaca en conserva;27,8;0,4;3,1;2,3
+Guisante en conserva;88,9;0,9;5,3;12,4
+Judía verde en conserva;15,1;0,1;1,2;1,6
+Menestra en conserva;48,3;0,32;2;8,5
+Palmito en conserva;43,2;0;2,8;8
+Pimiento del piquillo en conserva;32,2;0,4;1,2;5,2
+Pimiento morrón en conserva;29,4;0,4;1,2;4,5
+Pimiento rojo asado en conserva;33;0,4;1,2;5,4
+Puerro en conserva;38,1;0,7;1,2;5,4
+Tomate frito en conserva;78,3;3,5;0,82;9,9
+Tomate pelado enlatado;30,6;0,19;1,1;6
+Tomate triturado;31,1;0,1;0,8;5,8
+Zumo de aloe vera;15;0;0;3,8
+Zumo de tomate natural;16,7;0,05;0,76;3
+Zumo de zanahoria natural;24,3;0,15;0,63;4,8
+Boniato;114;0,6;1,6;24,1
+Fécula de patata;375;0,34;6,9;83,1
+Harina de tapioca;382;0,2;0,5;94,3
+Nabo;31,8;0,22;1;4,7
+Patata nueva;73,6;0,11;2,3;14,8
+Patata vieja;78,7;0,21;2,2;16,1
+Rábano;17,3;0,14;1,1;2,1
+Remo lacha;46,1;0,1;1,6;8,4
+Tapioca;345;0,2;0,58;84,9
+Yuca , mandioca, casava;164;0,3;1,4;38,1
+Remolacha en conserva;39,1;0,1;2,3;6,4
+Zanahoria en conserva;26,8;0,2;0,8;4,2
+Champiñón;34;1,2;4,3;0,54
+Níscalo;23,8;0,8;1,6;0,2
+Trufa cruda;126;0,5;9;13
+Cham piñón en conserva;21,4;0,5;3,4;0,07
+Hongos desecados, shiitake;344;0,99;9,6;68,4
+Alga agar cruda;29;0,03;0,54;6,4
+Alga agar desecada;336;0,3;6,2;73,2
+Alga espirulina desecada;391;7,7;58,2;20,3
+Alga Kelp cruda;47,6;0,56;1,7;8,3
+Alga Kelp desecada;246;0,6;7,9;49,7
+Alga Laver cruda;45,5;0,28;5,8;4,8
+Alga Laver desecada;225;1,5;30,7;
+Alga musgo de Irlanda cruda;54;0,16;1,5;11
+Alga Spirulina cruda;37,1;0,39;5,9;2,4
+Alga Wakame cruda;53,6;0,64;3;8,7
+Alga Wakame desecada;165;2,4;12,4;
+Agua cate;233;23,5;1,9;0,4
+Albaricoque;41,4;0,1;0,88;8,5
+Arán dano;42,1;0,6;0,63;6,1
+Caqui;74,2;0,3;0,63;16
+Cara mbola;31;0;0,5;6,3
+Cereza;62,1;0,31;0,88;13,3
+Chirimoya;72,7;0,7;1,3;14,1
+Ciruela;48,1;0,17;0,63;10,2
+Coco fresco;384;36,5;4,6;4,8
+Frambuesa;36,9;0,3;1,3;4,9
+Fresa y fresón;32,2;0,4;0,81;5,5
+Granada;77,2;0,6;0,69;16,1
+Gros ella negra;45,2;0,22;1,3;6,1
+Gros ella roja;32,4;0,2;1,1;4,8
+Guay aba;41,6;0,5;0,88;5,8
+Higo;65,3;0,5;1,3;12,9
+Kiwi;51,8;0,8;1;9,1
+Lima;17;0,2;0,5;1,9
+Limón;27,7;0,3;0,69;3,2
+Litchi;76,7;0,3;0,9;16,8
+Mandarina;44,7;0,2;0,63;9,2
+Mango;61,2;0,45;0,63;12,8
+Manzana;54,1;0,36;0,31;11,4
+Mara cuyá;54,2;0,4;2,4;9,5
+Melo cotón;50,8;0,2;1;10,3
+Meló n;55,5;0,1;0,88;12,4
+Membrillo;47,3;0,5;0,44;7,3
+Mora;45;1;1,2;6,2
+Naranja;45,5;0,2;0,87;8,9
+Nectarina;49,7;0,1;0,9;10,2
+Níspero;42,6;0,2;0,56;8,6
+Papa ya;35;0,09;0,5;7,1
+Pera;49,4;0,1;0,43;10,6
+Piña;50,8;0,4;0,44;10,4
+Plátano;95,2;0,27;1,1;20,8
+Plátano macho o hartón;141;0,37;1,3;31,9
+Pomelo;36,7;0,15;0,63;7,4
+Sandia;28,4;0,3;0,63;5,6
+Tamarindo, pulpa;277;0,6;2,8;62,5
+Uva blanca;70,3;0,16;0,72;16,1
+Uva negra;67,1;0,16;0,72;15,5
+Albaricoque seco (orejones);283;0,51;3,4;62,6
+Ciruela seca;219;0,52;2,2;42,4
+Coco rallado;633;62;5,6;6,4
+Dátil;289;0,45;1,9;65,1
+Higo seco;272;1,3;3,6;55,1
+Melocotón seco (orejones);257;0,76;3;53,2
+Pasa;305;0,5;2,5;69,3
+Almendra con cascara;610;54,1;18,7;5,4
+Almendra frita salada sin cascara;618;55,2;19;3,8
+Almendra sin cascara;610;54,1;18,7;5,4
+Almendra tostada sin cascara;633;52,9;22,9;9,7
+Anacardo;578;42,2;17,5;30,5
+Avellana con cascara;661;61,6;12;10,5
+Avellana sin cascara;661;61,6;12;10,5
+Cacahuete con cascara;563;46;25,2;7,9
+Cacahuete frito salado sin cascara;627;53;24,5;8,9
+Cacahuete sin cascara;563;46;25,2;7,9
+Cacahuete tostado y salado sin cascara;615;49,7;23,9;14
+Castaña;190;2,2;2,7;36,5
+Castaña asada;237;5,3;4;39,7
+Chufa;443;23,7;6,1;42,5
+Nueces de macadamia sin cascara;744;75,8;7,9;4,8
+Nueces pecanas sin cascara;732;73,8;9,3;2,9
+Nuez con cascara;649;62,5;14,4;4,4
+Nuez sin cascara;649;62,5;14,4;4,4
+Piñón con cascara;706;68,6;14;3,9
+Piñón sin cascara;706;68,6;14;3,9
+Pipa de girasol pelada con sal;640;56,8;17,3;9,1
+Pipa de girasol pelada sin sal;652;56,8;17,3;12,2
+Pipa de girasol sin sal;569;47,5;19,8;12,3
+Pipas de calabaza sin cascara tostadas sin sal;635;49,1;29,9;14,7
+Pistacho;603;51,6;17,7;11,6
+Pistacho tostado salado;613;52,7;18;12,5
+Semilla de lino;514;42,2;18,3;1,6
+Semilla de sésamo;605;49,7;17,7;15,8
+Tahine;642;53;17,4;21,5
+Compota de manzana;81,3;0,1;0,2;19,1
+Crema de almendras;341;13,2;4,6;50,7
+Crema de cacahuete;619;47,8;30,1;13,6
+Dulce de membrillo y pastas de frutas;259;0;1;62,2
+Lichi en conserva;117;0,3;0,9;27
+Mace donia de frutas en almíbar;68,6;0,1;0,62;15,8
+Macedonia de frutas en su jugo;63,1;0,03;0,7;14,5
+Melo cotón en almíbar;58,6;0,03;0,38;14,2
+Mermelada de albaricoque y melocotón;258;0,2;0,32;63,2
+Mermelada de cereza;251;0,16;0,38;60,9
+Merm elada de ciruela;251;0,63;0,31;59,6
+Merm elada de frambuesa;251;0,3;0,45;60,9
+Merm elada de fresa;255;0,2;0,31;62,6
+Mermelada de fresa baja en calorías;33;0;0,7;6,4
+Merm elada de mora;239;;0,5;58,7
+Merm elada de naranja;234;0;0,38;58
+Mermelada de tomate;197;0,14;0,56;48
+Pera en almíbar;62,9;0,1;0,25;14,5
+Piña en almíbar;65,8;0,11;0,38;15,4
+Piña en su jugo;42,9;0,099;0,4;9,7
+Zumo de limón natural;33,1;0,29;0,4;6,1
+Zumo de naranja;43,6;0,2;0,69;9,4
+Leche concentrada;132;7,6;6,5;9,3
+Leche condensada azucarada;336;10,1;8,5;52,8
+Leche condensada desnatada con azúcar;282;0,2;10;60
+Leche de cabra;66,7;3,9;3,7;4,2
+Leche de oveja;96,7;6,3;5,3;4,7
+Leche de vaca desnatada;37;0,2;3,9;4,9
+Leche de vaca entera;65,4;3,8;3,1;4,7
+Leche de vaca semidesnatada;47,6;1,6;3,5;4,8
+Leche desnatada sin lactosa;36,6;0,2;3,9;4,8
+Leche en polvo desnatada;352;0,64;36,1;50,4
+Leche en polvo entera;477;26,2;25,2;35,1
+Leche en polvo semidesnatada;442;16,3;29,8;43,9
+Leche entera sin lactosa;65,4;3,8;3,1;4,7
+Leche evaporada entera;151;9,4;8,4;8,1
+Leche materna calostro;53,5;2,6;2,6;4,9
+Leche materna madura;68,8;4;1,2;7
+Leche materna transicional;66,5;3,7;1,7;6,6
+Leche merengada;83,6;3,2;3;10,7
+Leche semidesnatada sin lactosa;47,6;1,6;3,5;4,8
+Kéfir;63,9;3,5;3,3;4,8
+Leche fermentada con lactobacillus acidophilus;98,5;3,3;3,1;14,1
+Leche fermentada con lactobacillus casei;88,3;3,3;3;11,7
+Leche fermentada tipo bio con frutas;84,9;1,7;4;13,4
+Leche fermentada tipo bio desnatado con frutas;53;0,021;4,7;8,5
+Leche fermentada tipo bio desnatado natural;42,7;0,3;4,9;5,1
+Leche fermentada tipo bio natural;62,6;3,4;3,6;4,4
+Yogur de soja;90;1,2;2,4;17,1
+Yogur desnatado con cereales;56,5;1,1;4,6;6,9
+Yogur desnatado con fruta;71,6;0,2;3,8;13,1
+Yogur desnatado de sabores;90,1;0,9;3,8;16,7
+Yogur desnatado natural;45,3;0,32;4,3;6,3
+Yogur desnatado natural azucarado;75,9;0,3;4,5;13,8
+Yogur desnatado natural edulcorado;40,5;0,32;4,3;5,1
+Yogur entero con cereales;89,6;3,8;3,9;9,1
+Yogur entero con fruta;94,9;2,3;3,8;14,3
+Yogur entero de sabores;115;3,4;5,4;15,6
+Yogur entero natural azucarado;85,9;1,9;3,5;13,7
+Yogur liquido con pulpa de fruta;81,9;1,5;2,8;14,3
+Yogur liquido de sabores;75,4;1,4;2,9;12,8
+Yogur liquido natural azucarado;69,2;1,2;3;11,6
+Yogur natural entero;61,4;2,6;4;5,5
+Yogur sin lactosa natural azucarado;70,7;1,9;3,5;9,9
+Yogur tipo griego;139;10,2;6,4;5,4
+Queso azul;353;29,8;21,1;
+Queso Brie;342;27,9;22,6;0,1
+Queso Camembert;285;22,3;21;0,1
+Queso Cheddar;393;32,2;25,4;0,36
+Queso de Arzua;339;29;19,4;
+Queso de bola;329;24,9;25,5;0,8
+Queso de Burgos;200;14,9;14;2,5
+Queso de cabra curado;467;39,6;27,6;
+Queso de cabra semicurado;327;28,2;18,3;0,1
+Queso de cabra tierno;208;17,6;11,1;1,2
+Queso de Cabrales;392;34;21,5;
+Queso Edam;356;27,8;25;1,4
+Queso Emmental;397;31,2;29;0
+Queso en lonchas;327;24,2;25,1;2,2
+Queso en porciones;376;32,4;15,6;5,4
+Ques o en porciones descremado;162;10,7;10;6,5
+Queso gallego;352;28;23;2
+Queso Gorgonzola;361;31,2;19,4;0,62
+Queso Gouda;331;25,4;25,5;0
+Queso Gruyere;397;32,1;26,9;
+Queso Havarti;413;37;20;0
+Queso Idiazabal;443;38,9;23,3;
+Queso Mahón;411;33,7;26,9;0
+Queso manchego curado;476;35,8;38;0,51
+Queso manchego fresco;333;25,4;26;
+Queso manchego semicurado;391;30,4;28,8;0,5
+Queso Mozzarella;233;16,1;19,9;2,2
+Queso Parmesano;375;25,8;35,6;0,06
+Queso quark 20%mg;71,3;2,9;7,8;3,5
+Queso quark descremado;67,9;0,25;13,2;3,2
+Queso raclette;369;29,6;25;0,69
+Queso ricotta;156;10,5;11,5;3,8
+Queso Roncal;448;38,8;24,7;0
+Queso Roquefort;369;30,6;21,5;2
+Queso San Simón;382;31,7;24,2;
+Queso tetilla;399;34,5;22;
+Queso tipo manchego en aceite;471;40,5;26,5;
+Queso tipo petit de chocolate;182;6,4;4,3;26,9
+Queso tipo petit de sabores;122;4;7,5;14
+Queso tipo petit natural azucarado;120;4;7,3;13,7
+Queso Torta del Casar;399;32,6;26,3;
+Queso zamorano;439;37,5;25,3;
+Requesón;101;4,3;12,3;3,3
+Arroz con leche;121;1,3;3,3;23,9
+Copa de chocolate y nata;182;9,3;3,2;21,2
+Crem a de chocolate;199;10,7;3,6;21,2
+Cuajada;86,7;4,7;4,5;6,6
+Flan de huevo;143;4,6;5;20,4
+Flan de vainilla;122;1,6;3;23,9
+Flan instantáneo en polvo;366;0;0;91,6
+Helado cremoso;177;8,6;4;21
+Helado de chocolate;191;11;3,8;18,5
+Helado de fresa;186;8,4;3,2;24
+Helado de nata;199;10,8;3,9;21,5
+Mous se de chocolate;150;6,5;4;18,9
+Natillas;103;2,9;3,7;15,5
+Natillas de chocolate;133;4,1;4,2;19,8
+Yogu r helado;131;3,6;3;21,6
+Batido de cacao;84;3,6;2,7;9,8
+Batido de fresa;65,8;1;2,8;11
+Batido de vainilla;63,4;1;2,9;10,3
+Bebida comercial de zumo y leche;51,7;0,1;0,7;12
+Nata liquida para cocinar;125;10,5;3,1;4,5
+Nata liquida para montar;307;31,7;2,4;3,1
+Nata montada;308;31,7;2,4;3,3
+Añojo de 2ª y 3ª;212;14,4;20,7;0
+Añojo lomo;256;21,6;15,4;
+Carn e de vaca 2ªy3ª;234;16,2;22;0
+Carne de vaca grasa;200;14;18,6;0
+Carn e de vaca magra;120;4,3;20,3;0
+Carn e semigrasa de vaca;160;9,3;19,1;0
+Chuleta de ternera;107;2,6;20,9;0
+Kebab, ternera;216;14,6;18,9;2,2
+Lomo de ternera;120;6;16,6;0
+Rabo de toro;242;18,6;18,6;0
+Solomillo añojo;102;4,6;15,1;0
+Solomillo de buey;104;3,5;18,2;0
+Solomillo de ternera;103;2,5;20,2;
+Solomillo de vaca;272;22,8;16,6;0
+Ternera de 2ª y 3ª;131;6,3;18,6;
+Ternera magra;131;5,4;20,7;
+Ternera semigrasa;205;13,6;20,6;0
+Bacon;682;69,3;14,6;0
+Carne de cerdo semigrasa;219;16,5;17,5;
+Cerdo magro;156;7,6;22;
+Chuleta de cerdo;352;29,5;21,7;0
+Costilla de cerdo;281;23,6;17,1;0
+Lomo de cerdo;305;26,6;16,3;0
+Mani ta de cerdo;291;25;16;0,5
+Paletilla de cerdo;349;29,2;21,5;0
+Panceta;471;46,6;12,5;0,5
+Solomillo de cerdo;158;7,6;22,3;
+Tocino;655;71;4,1;0
+Chuleta de cordero;250;20,6;16,2;0
+Paleta de cordero;151;11,8;11,1;0
+Pierna de cordero;178;11,8;17,9;0
+Ala de pollo;217;16;18,3;0
+Capó n asado;221;11,7;29;0
+Codo rniz;110;2,3;22,4;0
+Faisán entero;155;6,6;23,8;0
+Gallina entera;232;18,1;17,3;0
+Muslo de pavo;114;3,6;20,5;0
+Muslo de pollo;183;11,2;20,6;0
+Oca deshuesada sin piel;155;7,1;22,8;0
+Oca entera;366;33,6;15,9;0
+Paloma;288;23,8;18,5;0
+Pato entero;227;17,2;18,1;0
+Pavo;157;8,5;20,2;0
+Pechuga de pavo;105;0,99;24,1;
+Pech uga de pollo;145;6,2;22,2;0
+Pollo entero;166;9,6;19,9;0
+Solomillo de avestruz;114;3;21,7;0
+Callos de ternera;134;8,3;14,8;0
+Corazón de cerdo;114;4,4;17,3;1,3
+Corazón de cordero;118;5,7;16,5;0,21
+Corazón de pollo;149;9,3;15,6;0,71
+Cora zón de vaca;104;4;17;0
+Hígado de cerdo;131;4,9;20,7;0,93
+Hígado de cordero;137;5;20,7;2,2
+Hígado de pollo;136;4,7;22,1;1,2
+Hígado de ternera;136;4,6;19,4;4,2
+Hígado de vaca;130;3,4;19,5;5,3
+Lengua de buey;224;16,1;16;3,7
+Lengua de cerdo;157;10,3;16;0
+Lengua de cordero;193;14,6;15,3;0
+Lengua de ternera;148;8,5;17,8;0
+Lengua de vaca;219;16,1;14,9;3,7
+Molleja de cordero;131;7,8;15,3;0
+Molleja de ternera;303;28,6;11,5;0
+Pulmón de cerdo;80,7;2,7;14,1;0
+Pulmón de cordero;90,2;2,6;16,7;0
+Pulmón de ternera;87,3;2,5;16,2;0
+Riñón de cerdo;102;3,8;16,9;0
+Riñón de cordero;90,3;2,7;16,5;0
+Riñón de ternera;131;7,1;16,7;0
+Sangre de cerdo;76;0,2;18,5;0,06
+Seso de cerdo;123;9;10,6;0
+Seso de cordero;133;10,3;10;0
+Seso de ternera;109;7,6;10,1;0
+Butifarra;238;19,6;10;5,5
+Cabeza de jabalí;534;50,6;19,4;0,2
+Chistorra;519;50,5;15,3;0,9
+Chopped de cerdo;293;24,8;14,4;3,1
+Chorizo;356;29,3;21,2;1,9
+Foie gras;324;29,5;11,9;2,7
+Fuet;438;39,5;19,3;1,4
+Jamón cocido;213;10,8;19,1;9,9
+Jamón cocido enlatado;120;5,1;18,4;0
+Jamón ibérico;375;22,4;43,2;0,1
+Jamón serrano;136;5,6;21,4;0
+Lomo embuchado;308;20;32;
+Longaniza;348;27,5;25;0
+Morcilla de arroz;256;17,7;6,9;16,7
+Mortadela;266;23,7;11,9;1,3
+Pechuga de pavo embutido;81,5;0,65;15,2;3,7
+Salami;444;39,2;21;1,7
+Salchicha fresca;309;28,1;13,1;0,9
+Salchicha tipo Frankfurt;243;20,5;13,1;1,4
+Salchichón;438;39,5;19,3;1,4
+Sobrasada;595;60,3;13;0
+Cabrito;122;5;19,2;0
+Carne de caballo;108;2,7;20,6;0,4
+Carne de conejo grasa;204;14,4;18,1;0,4
+Carne de conejo, grasa y magra;138;5,3;22,1;0,5
+Carne de jabalí;162;9,3;19,5;0
+Conejo;88,4;5,2;10,4;0
+Liebre;113;3;21,6;0
+Lomo de conejo;102;0,6;23,7;0,6
+Pierna de conejo;137;5,9;21;0
+Vena do magro deshuesado;103;1,6;22,2;0
+Abadejo;74;0,8;16,7;0
+Bacaladilla;84,4;1,6;17,5;0
+Bacalao fresco;79,8;1;17,7;0
+Besugo;88,6;1,8;18,1;0
+Breca;74,6;1;15,4;1
+Cabracho;91,3;1,7;19;0
+Cazón;82,9;0,9;18,7;0
+Dorada;230;16,9;18,1;1,3
+Gallo;81,5;1,9;16,1;0
+Lenguado;83,7;1,3;17,5;0,5
+Lubina;97,9;2,3;19,3;0
+Merluza;63,8;1,8;11,9;0
+Mero;70,3;0,7;16;0
+Mújol;124;4,3;20,4;0,8
+Panga;65,6;1,2;13,4;0,3
+Perca;88,8;1,6;18,6;0
+Pescadilla;74;0,8;16,7;0
+Platija;85,9;1,9;17,2;0
+Rape;65,6;0,67;14,9;0
+Raya;97,3;1,3;20,6;0,8
+Rodaballo;82,1;1,7;16,7;0
+Rosada;70,5;0,5;16,5;0
+Anguila;281;24,5;15;0
+Angula;205;15,5;16,3;0
+Arenque;233;17,8;18,2;0
+Atún;226;15,5;21,5;0
+Bonito;153;6;24,7;0
+Boqu erón;142;6;21,5;0,5
+Caballa;182;11,9;18,7;0
+Carpa;114;4,7;18;0
+Congrio;123;4,6;19;1,4
+Jurel;118;3,9;19,8;0,8
+Palometa;125;5;20;0
+Pescaditos;79,8;3;11,4;1,8
+Pez espada;117;4,4;19,4;0
+Salmon;191;12,1;20,6;0
+Salmonete;109;3,8;18,7;0
+Sardina;157;9,4;18;0
+Sargo;104;4,4;15;1
+Trucha;136;6,7;18,8;0
+Merluza congelada;81,2;2;15,8;0
+Pesc adilla congelada;54,6;0,82;11,8;0
+Anch oa en aceite;253;15,2;28,6;0,37
+Atún al natural;99,4;0,6;23,5;0
+Atún en aceite;208;12,1;24,8;0
+Atún en escabeche;99,4;0,6;23,5;0
+Bonito en aceite;203;11,5;24,9;0
+Bonito en aceite de soja;207;8,7;32,2;0
+Caballa en aceite;217;13,8;22,5;0,6
+Melva en aceite de oliva;184;7,3;27,5;2
+Sardina con salsa de tomate;174;12,3;13,8;1,9
+Sardina en aceite;218;13,6;23,9;0
+Sardina en escabeche;131;7,5;15;0,8
+Sardinilla en aceite;218;13,6;23,9;0
+Salmon ahumado;140;4,3;25,4;0
+Almeja;76,6;1;15,4;1,5
+Berberecho;82,6;1;16,9;1,5
+Bogavante;83,5;1,9;15,9;0,7
+Calamar;80,6;1,4;16,3;0,7
+Cangrejo y similares;124;5,1;19,5;
+Centollo;127;5,2;20,1;
+Chipirón;80,6;1,4;16,3;0,7
+Cigala;85,4;1,4;17,7;0,5
+Gamba roja;94,2;1,8;18;1,5
+Langosta;83,9;1,1;17,2;1,3
+Lang ostino;110;0,8;24,3;1,5
+Mejillón;72,4;2;10,2;3,4
+Ostra;66;1,2;9;4,8
+Percebe;66,4;0,4;15,7;
+Pulpo;89,8;1,4;17,9;1,4
+Quisquilla;81,8;0,6;17,6;1,5
+Sepia;75,3;0,9;16,1;0,7
+Vieira;81,7;0,9;15,6;2,8
+Zamburiña;76,6;1;15,4;1,5
+Bacalao salado;322;2,4;75;0
+Almeja en conserva;79,2;0,4;17,4;1,5
+Berberecho en conserva;79,2;0,4;17,4;1,5
+Bonito en escabeche;171;12;15;0,8
+Caballa ahumada;250;18,7;20,5;0
+Caballa en escabeche;171;12;15;0,8
+Calamar en salsa americana;195;15,2;13,1;1,5
+Calamar en su tinta;117;4,3;13,3;6,3
+Mejillón en conserva al natural;82,1;2,9;12;2
+Mejillón en escabeche;77,7;2,5;11,8;2
+Navaja en conserva;89,2;1;20;0,05
+Sardina ahumada o salada;202;13,1;21;0
+Anca de rana;68,3;0,3;16,4;0
+Caracol;85,8;1,4;16,3;2
+Caviar;252;15,5;26,1;1,9
+Gulas salteadas en conserva;255;21,2;8,9;7,2
+Huevas frescas;119;1,8;24,3;1,5
+Palito de cangrejo;82,9;0,9;12,6;6,1
+Clara de huevo;49;0,2;11,1;0,7
+Huevo de codorniz;155;11,2;13,1;0,41
+Huevo de gallina;162;12,1;12,7;0,68
+Huevo de pato;184;14,4;13;0,7
+Yema de huevo;353;31,9;16,1;0,3
+Azúcar blanco;399;0;0;99,8
+Azúcar moreno;390;0;0;97,6
+Fructosa;399;0;0;99,8
+Granadina, jarabe;268;0;0;66,9
+Jalea real;261;;0,2;65
+Jarabe;297;0;0,1;74,1
+Miel;302;0;0,38;75,1
+Barra de chocolate tipo “Mars”;431;18,5;5,6;60,2
+Barrita de chocolate con galleta;501;24,5;6,5;63
+Bombón;476;21,2;4,8;66
+Cacao en polvo;;0;15,9;0
+Cacao en polvo azucarado;391;4;5,9;81
+Cacao en polvo bajo en calorías;358;3;16,1;63,4
+Chocolate blanco;547;30,9;8;58,8
+Chocolate con leche;538;31,5;9,2;54,1
+Chocolate con leche y almendra;558;34,9;8,7;51,5
+Chocolate en polvo a la taza;405;6;5,5;79,4
+Chocolate puro;509;30;5,3;47
+Crema de cacao y avellanas;555;33;6,2;57,8
+Trufa de chocolate;514;33,8;6,2;44,9
+Cacahuete cubierto de chocolate;513;25,4;9,4;60,5
+Dulce de leche;321;5,6;5,2;62
+Mazapán;503;24,9;8;58,7
+Mere ngue;416;1,3;;91,6
+Peladilla;469;17,9;10;65,8
+Polvorón de almendra;479;23,8;5,5;59,3
+Turrón de Alicante;516;29,3;13;46
+Turrón de Jijona;488;31,1;13,2;34,7
+Bizcocho;377;15;6;54
+Bizcocho de chocolate;365;17;6,6;45
+Bizcocho de soletilla;298;2,7;6,4;61,3
+Bollo;443;23;6,6;50,8
+Bollo de leche;346;13,2;9,7;46,5
+Bollo relleno de chocolate;403;20,1;3,9;50,6
+Bollo tipo donette;457;26;5,7;49
+Bollo tipo donut;419;23;6;46
+Bollo tipo donut de chocolate;435;25;5,4;46
+Bollo tipo donut sin gluten;468;28;2;52
+Churro;361;20;4,6;40
+Croissant;444;22,4;7;52,6
+Croissant de chocolate;437;24,1;8,7;44,2
+Ensaimada;474;27;8,1;48,4
+Magd alena;441;23,9;4,4;51,7
+Medias noches;354;12;8,4;52
+Palmera;539;30;5;61
+Sobao;465;25;6,5;53
+Suizo;401;20,1;5,5;48,4
+Torta de aceite;511;23,5;6,5;66,8
+Valenciana;430;20,9;5,1;53,1
+Barquillo;427;6,9;8,1;81,5
+Galleta cubierta de chocolate;491;24;6,9;60,4
+Galleta doble rellena de chocolate;487;23,5;6,9;60,4
+Galleta integral;427;21,2;10;42,9
+Galleta tipo cookie;476;21;6,2;64
+Galleta tipo digestive;469;20,3;6,3;63
+Galleta tipo digestive con chocolate;501;24,1;6,8;62,6
+Galleta tipo Maria;482;19;7,1;69
+Galleta tipo sandwich;447;17,7;2,9;67,7
+Almendrado;431;18,1;9;57
+Buñuelo;266;14,8;6;26,3
+Crema pastelera;158;5,4;4,9;22,3
+Gofre;225;12;4,8;23,9
+Milhoja con nata y crema;281;14,3;4,5;33
+Pasta de te;446;13,8;6,9;73
+Pastel de chocolate;443;27,9;5,2;41,8
+Pastel relleno de crema;370;11,4;3,1;63,5
+Profiteroles con chocolate;302;12;5,5;42
+Profiteroles sin chocolate;374;29,5;6;20
+Pudin de pasas;211;9,7;4,6;24,7
+Tarta de crema pastelera y manzana;208;9,2;1,8;28,7
+Tarta de frutas;332;9,1;2,9;57,9
+Tortita sin nata;297;11;5,8;43
+Caramelo;382;;0,4;95
+Chicle;390;0,3;0;96,7
+Chicle sin azúcar;2,7;0,3;0;0
+Polo de hielo;134;1,3;1;29,5
+Regaliz;323;1,9;3,9;71,5
+Aceite de cacahuete;900;100;0;0
+Aceite de coco;900;100;0;0
+Aceite de colza;900;100;0;0
+Aceite de germen de trigo;899;99,9;0;0
+Aceite de girasol;899;99,9;0;0
+Aceite de Hígado de bacalao;899;99,9;;0
+Aceite de lino;900;100;0,11;0
+Aceite de maíz;899;99,9;0;0
+Aceite de nuez;898;99,8;;0
+Aceite de oliva;899;99,9;;0
+Aceite de oliva virgen;899;99,9;;0
+Aceite de oliva virgen extra;899;99,9;;0
+Aceite de oliva virgen extra ecológico;899;99,9;;0
+Aceite de palma;899;99,9;0;0
+Aceite de semilla de uva;899;99,9;0;0
+Aceite de sésamo;900;100;0;0
+Aceite de soja;900;100;0;0
+Mantequilla;734;81,1;0,85;0,06
+Mantequilla ligera;517;55,1;3,3;1,9
+Mantequilla salada;736;81,1;0,89;0,7
+Margarina;722;80;0,2;0,4
+Margarina con esteroles;387;42,5;0,1;0,95
+Margarina de maíz;740;80;0,9;4
+Margarina ligera;371;40;1,6;1,1
+Margarina salada;730;80,5;0,9;0,5
+Margarina vegetal enriquecida;731;80,8;0,5;0,4
+Manteca de cacao;900;100;0;0
+Manteca de cerdo;891;99;0;0
+Agua con gas embotellada;0;0;0;0
+Agua corriente;0;0;0;0
+Agua de mineralización débil;0;0;0;0
+Agua sin gas embotellada;0;0;0;0
+Bíter sin alcohol;42;0;;10,5
+Gaseosa;21,6;0;;5,4
+Gaseosa sin calorías;0,32;0;0,01;0,07
+Limonada;17;0,2;0,5;1,9
+Refresco aroma lima - limón;58,4;0;0;14,6
+Refresco de té;36,4;0;0;9,1
+Refresco de té bajo en calorías;0;0;0;0
+Refresco sabor cola;43,6;0;0;10,9
+Refresco sabor cola bajo en calorías;0,4;0;0;0,1
+Refresco sabor cola sin cafeína;43,2;0;0;10,8
+Refresco sabor cola sin cafeína bajo en calorías;0,8;0;0,1;0,1
+Refresco sabor limón;45,6;0;;11,4
+Refresco sabor naranja;42;0;;10,5
+Soda sifón;35,2;0;0;8,8
+Tónica;36,8;0;0;9,2
+Achicoria;10,6;0,6;0,5;2,4
+Café capuccino en polvo soluble;396;11,4;10,6;60,8
+Café descafeinado en grano;315;13,1;13,5;6,7
+Café descafeinado en polvo soluble;228;0,22;13,9;42,6
+Café descafeinado liquido;12,2;0,5;0,52;0,25
+Café en grano;315;13,1;13,5;6,7
+Café en polvo soluble;227;0,5;14,6;41,1
+Café liquido;12,2;0,5;0,52;0,25
+Infusión de manzanilla;1;0;0;0,2
+Infusión genérica;0;0;;
+Sucedáneo de café soluble;404;3,4;12,3;80,9
+Té;220;2;19,6;3
+Té con agua;1,9;0,017;0,17;0,026
+Bebida isotónica;28,4;0;0;7,1
+Néctar de frutas envasado;54,4;;0,4;13,2
+Sorbete de limón;140;;0,9;34,2
+Zumo comercial de naranja;43,3;0,2;0,63;9,4
+Zumo comercial sabor frutas tropicales;60,8;0;0,3;14,9
+Zumo de mango;42;0,2;0,1;9,8
+Zumo de manzana;48,9;0,11;0,063;11,9
+Zumo de melocotón;47,1;0,22;0,63;10,5
+Zumo de piña;41,4;0,08;0,38;9,7
+Zumo de pomelo;43,6;0,1;0,53;10,1
+Zumo de tomate comercial;14,1;0,06;0,63;2,6
+Zumo de uva;68,1;0,1;0,21;16,6
+Zumo de zanahoria;24,2;0,1;0,63;4,8
+Zumo uva y melocotón;52,8;0,23;0,6;12
+Agua de coco;17,2;0,2;0,7;2,6
+Bebida de almendras;24,3;1,1;0,5;3
+Bebida de alpiste;45;1;1,2;7,1
+Bebida de avena;46,7;0,7;1;8,7
+Horchata;97,3;2,7;1,2;17
+Leche de coco;241;23,8;2,3;3,3
+Aguardiente;222;0;;
+anís;267;0;0;1
+Bíter con alcohol;152;0;0;16
+Cava;70,5;0;0,2;1,5
+Cerveza;42,4;0;0,5;3,1
+Cerveza baja en alcohol;38,1;0;0,5;2,9
+Cerveza sin alcohol;25,4;0;0,38;5,4
+Champagne;67,6;0;0,18;1,5
+Coñac;240;0;0;2
+Crem a de whisky;324;13;3;25
+Cuba ta de ron;109;0;0;7,4
+Gine bra;221;0;0;0
+Licor dulce;224;0;0,1;35
+Ron;234;0;0;0
+Sangría;95,9;0,03;0,12;9,9
+Sidra;49,9;0;;6
+Tequila;266;0;0;0
+Vermut;145;0;0,1;13,5
+Vino blanco;61;0;0,1;0,1
+Vino dulce (Málaga, Oporto);161;0;0,2;13
+Vino fino (Jerez, Manzanilla);127;0;0,2;10
+Vino rosado;66,9;0;0,1;1,4
+Vino tinto;70,7;0;0,23;0,3
+Vodka;235;0;0;0
+Whisky;247;0;0;0,11
+Albóndigas en conserva;148;9,7;6,8;5,9
+Arroz tres delicias congelado;115;1,6;3,4;20
+Base de pizza;273;7,4;6,7;43,9
+Calamares a la romana congelados;189;7,8;5,7;23,7
+Calamares fritos;172;7,5;22;4
+Caldo de carne;6,5;0,22;1,1;0,04
+Caldo de pescado;15;0,6;2;0,4
+Caldo de pollo;5;0,21;0,4;0,4
+Caldo de verdura;30,9;0,79;0,9;4,9
+Caldo en cubitos de carne;252;18,7;15,7;5
+Callos a la madrileña;109;5,8;6,8;2,5
+Canelones de carne congelados;129;5,4;6,2;12,8
+Carne empanada, pasteles de carne (congelados);299;18,1;21,9;12
+Crema desecada de champiñón;361;7,7;9,6;61,9
+Crema desecada de espárragos;392;15,5;8;54
+Croquetas de bacalao congelada;154;4,2;3,8;25
+Croquetas de jamón congelada;153;4,6;3,8;23
+Croquetas de marisco congelada;136;2,7;5,6;21,9
+Croquetas de merluza congelada;140;3,8;3,5;21,3
+Croquetas de pollo congeladas;160;5,3;5,8;21
+Croquetas de queso congelada;131;3,3;4,3;20,6
+Delicias de jamón y queso congeladas;207;9,1;5,1;24,9
+Empanadilla de atún congelada;265;12;4,8;31,7
+Espinacas a la crema congeladas;65,1;3,5;2,8;4,7
+Fabada en conserva;156;8,8;6,1;9,3
+Gazpacho en conserva;39,8;2,8;0,6;3
+Hummus;174;9,6;7,9;11
+Kebab;341;18,8;17,1;25,9
+Lasa ña de carne y besamel congelada;150;7,9;6,3;13
+Paella de marisco congelada;125;0,62;3,6;25,2
+Patatas prefritas congeladas;115;2,4;2,1;20
+Pisto de verduras congelado;57;0,15;2,9;8,8
+Pizza de atún congelada;219;9,8;8;23
+Pizza margarita congelada;237;7,8;8,2;32,6
+Pizza romana congelada;177;3,8;7,3;26,5
+Pollo empanado congelado;242;12,7;18;13,5
+Pure de patatas para reconstituir;353;1;6,5;76
+San Jacobo congelado;252;13,3;4,1;26,7
+Sopa de ave con fideos para reconstituir;326;1,5;11;66
+Sopa jardinera para reconstituir;270;1,5;0;59
+Aceituna negra con hueso;156;16;0,5;0
+Aceituna negra sin hueso;156;16;0,5;0
+Aceituna rellena de anchoa;121;12,3;1,3;0
+Aceituna rellena de pimiento;169;16;1,2;3,8
+Aceituna verde con hueso;167;16,7;0,8;1
+Aceituna verde sin hueso;167;16,7;0,8;1
+Alcaparra;28,7;0,86;2,4;2,1
+Berenjenas encurtidas;27;1;0,7;2,8
+Chips de verduras;468;19,8;3,2;67,3
+Corteza de trigo;521;28;9,1;57
+Fritos de maíz sabor barbacoa;539;31;7;55
+Galleta salada;466;20;6,2;64
+Ganchitos;470;17,4;6,6;71,1
+Gusanitos con queso;520;29;5,6;58
+Nachos con queso;357;21,5;4,3;34,9
+Palomitas de maíz;494;30,2;6,2;44,3
+Pan de gambas;349;0,1;1,6;85,5
+Patatas fritas de bolsa;531;34,2;6,5;47,5
+Patatas fritas de bolsa bajas en calorías;462;21,5;6,6;57,4
+Pepinillos en vinagre en conserva;10,5;0,1;1,3;1,1
+Triángulos maíz;503;27,7;6,5;56,3
+Ajo en polvo;346;0,73;16,6;63,7
+Albahaca fresca;26,2;0,64;3,2;1,1
+Albahaca seca;255;4;14;20,5
+Azafrán;353;5,9;11,4;61,5
+Canela;255;3,2;3,9;25,6
+Cardamomo, semillas;344;6,7;10,8;46,2
+Cebolla deshidratada en copos;355;0,45;9;74,1
+Cebollino;29;0,53;3;1,9
+Cilantro;22,1;0,5;2,1;0,9
+Clavo;335;13;6;31,6
+Comino;391;18,2;17,8;33,7
+Cúrcuma;291;3,3;9,7;44,4
+Eneldo seco;316;4,4;20;42,2
+Gomasio;89,7;8,7;2,7;0,14
+Guindilla picante;47,3;1,1;1,9;6,7
+Hinojo;20,2;;1,1;2,3
+Jengibre crudo;32,9;1,1;1,1;3,4
+Jeng ibre en polvo;336;4,2;9,1;58,3
+Laurel;353;8,4;7,6;48,7
+Levadura;164;0;27,8;11,8
+Leva dura de panadería fresca;73;1;16;0
+Mejo rana seca;324;7;12,7;32,4
+Ment a fresca;67,3;0,94;3,8;6,9
+Nuez moscada;506;36,3;5,8;28,5
+Orégano fresco;65,6;2;2,2;9,7
+Orégano seco;309;10,3;11;21,6
+Perejil;59;0,36;4,4;7,4
+Pimentón;357;13;14,8;34,8
+Pimienta blanca;283;2,1;10,4;42,4
+Pimienta negra;280;3,3;10,9;38,3
+Sal común;0;0;0;0
+Sal fluorada;0;0;0;0
+Sal hiposódica;0;0;0;0
+Sal yodada;0;0;0;0
+Sal yodada fluorada;0;0;0;0
+Semilla de anís;443;15,9;17,6;50
+Semillas de alcaravea;334;14,6;19,8;11,9
+Tomillo seco;369;7,4;9,1;57,1
+Vainilla;51,6;0,06;0,06;12,7
+Vinagre;4;0;0,4;0,6
+Vinagre balsámico;70;0;0,49;17
+Vinagre de manzana;2,4;0;0,4;0,2
+Vinagre de vino;4;0;0,4;0,6
+Alioli;796;86,9;0,5;2,8
+Gela tina;338;0;84,4;0
+Kétchup;117;0,4;2;26
+Mayonesa comercial;709;75,6;1,3;5,8
+Mayonesa ligera;272;26;0,7;8,8
+Mostaza;125;8,2;7,1;5
+Salsa agridulce;121;2,4;0,48;24
+Salsa al curry;78,2;5;1,5;6,8
+Salsa barbacoa;71;1,8;1,8;11,6
+Salsa bechamel;153;10,3;4,1;10,8
+Salsa boloñesa;163;11,1;8;7,2
+Salsa brava;186;14,3;2;12,3
+Salsa carbonara;307;29,9;7,5;2
+Salsa cesar;543;57,9;2,2;3,3
+Salsa de queso;111;6,1;5,3;8,4
+Salsa de soja;65,7;0,1;8,7;6,7
+Salsa holandesa;289;30,6;2,7;0,6
+Salsa inglesa;78;0;0;19,5
+Salsa picante;13,1;0,37;0,5;1,8
+Salsa roquefort;480;47,5;7,2;6
+Salsa tabasco;12;0,76;1,3;0,8
+Salsa tamari;66,9;0,1;10,5;5,6
+Salsa tartara;209;16,7;1;13,3
+Salsa vinagreta;648;71,8;0,2;0,2
+Sofrito;215;21;1,1;4,7
+Aspartamo;365;0;1,4;93,7
+Barrita hipocalórica;473;22,9;22;42
+Batido hipocalórico;322;4,6;26,9;37
+Crema hipocalórica;262;3,8;23;30
+Edulcorante liquido;4;0;0;1
+Saca rina;364;0;2;89,1
+Stevia;0;0;0;100
+Leche de continuación (polvo);511;24,3;12,9;60,1
+Leche de inicio (polvo);522;26,8;11,4;58,9
+Papilla de cereales con leche (polvo);419;9;15,5;68
+Papilla de cereales y frutas (polvo);379;1,3;6;85,8
+Papilla de cereales y miel con leche (polvo);421;8,8;13;72,4
+Papilla sin gluten con leche (polvo);403;8,3;15,3;66,8
+Papilla sin gluten y frutas con leche (polvo);422;8,7;15,2;70,8
+Potito de fruta variada;73,5;0,1;0,6;17
+Potito de pescado;74,6;3,8;3,6;6
+Potito de pollo;78,5;3,7;5,2;5,8
+Potito de ternera;64,8;2,6;3,6;6
