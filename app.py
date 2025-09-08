@@ -3,7 +3,7 @@ import pandas as pd
 
 @st.cache_data
 def cargar_datos():
-    df = pd.read_csv('composicion_macro_100g.csv', delimiter=';', decimal=',')
+    df = pd.read_csv('composicion_macro_100g.csv', delimiter=';', decimal=',', encoding='latin1', on_bad_lines='skip')
     df.columns = [col.strip() for col in df.columns]
     return df
 
